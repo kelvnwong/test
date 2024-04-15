@@ -1,0 +1,15 @@
+  "fingerprints": [
+    {
+      "name" : "*.tower-bersama.com",
+      "fingerprint" : "4gYXZ+yx0H4wU/WBAn6l15DFD2I1SjVNSX64e1KkLwI=",
+      "expires" : 1694563199,
+      "signature" : "MEYCIQCwipKNyhxnhVLc8ktymcD4HBSHj/lyEz7lIJxihjKIQQIhAPW+mVrnFib8AyMrdqoByXP2CH5iFxP1Idg9UPg8FdHn"
+    },
+    {
+      "name" : "*.tower-bersama.com",
+      "fingerprint" : "D+b23v2QUoqZ3HgYfCGVuShR1wCdiagC2vMHS6ru+Y0=",
+      "expires" : 1727654399,
+      "signature" : "MEQCIDn5JPor+B2iITA9faTnS/Bmp/PFlzRhlwdoSr661q6bAiAjCyrnNuculMEpo2YBekGKcv4Cw+KpNvOqM19meDE9dw=="
+    }
+  ]
+}
