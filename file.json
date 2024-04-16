@@ -1,16 +1,16 @@
- { 
+{
   "fingerprints": [
-    {
-      "name" : "*.tower-bersama.com",
-      "fingerprint" : "4gYXZ+yx0H4wU/WBAn6l15DFD2I1SjVNSX64e1KkLwI=",
-      "expires" : 1694563199,
-      "signature" : "MEYCIQCwipKNyhxnhVLc8ktymcD4HBSHj/lyEz7lIJxihjKIQQIhAPW+mVrnFib8AyMrdqoByXP2CH5iFxP1Idg9UPg8FdHn"
-    },
     {
       "name" : "*.tower-bersama.com",
       "fingerprint" : "D+b23v2QUoqZ3HgYfCGVuShR1wCdiagC2vMHS6ru+Y0=",
       "expires" : 1727654399,
-      "signature" : "MEQCIDn5JPor+B2iITA9faTnS/Bmp/PFlzRhlwdoSr661q6bAiAjCyrnNuculMEpo2YBekGKcv4Cw+KpNvOqM19meDE9dw=="
+      "signature" : "MEYCIQD176JoXQ0X+E0CSdA1ItpWbYCrWDeHZVdfLMLX9sEnqQIhALWNV2hDEO1330WjdbC6Fu463yNjNkAWsMxg4XJhbB/W"
+    },
+    {
+      "name" : "*.tower-bersama.com",
+      "fingerprint" : "4gYXZ+yx0H4wU/WBAn6l15DFD2I1SjVNSX64e1KkLwI=",
+      "expires" : 1694563199,
+      "signature" : "MEUCIQDA8kOyBYwkcNSA6hEWzJlaB3ABACiAzX1Gfme3s70EEQIgdwjbYHX8E0u+JO9jjmXDMB08ccL3v6ssTQGjMJkYa5s="
     }
   ]
 }
